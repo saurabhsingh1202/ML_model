@@ -1,0 +1,26 @@
+Maternal:
+Age
+SystolicBP
+DiastolicBP
+BS
+BodyTemp
+HeartRate
+RiskLevel
+
+Malnutrition:
+ID
+Age (months)
+Gender
+Region
+Mother_Education
+Household_Wealth_Index
+Height_cm
+Weight_kg
+Stunting
+Underweight
+Overweight
+Anemia
+Malaria
+Diarrhea
+TB
+Nutrition_Status
